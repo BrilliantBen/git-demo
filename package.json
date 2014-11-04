@@ -1,0 +1,15 @@
+{
+  "name": "oef 3 - watch",
+  "version": "1.0.0",
+  "description": "oefening 3 in de les",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "benoit schrijnemakers",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.8.8",
+    "gulp-header": "^1.2.2"
+  }
+}
